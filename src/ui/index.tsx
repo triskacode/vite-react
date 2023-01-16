@@ -1,6 +1,6 @@
 import "./styles/index.css";
 import React from "react";
-import App from "./pages/app";
+import App from "~/ui/pages/app";
 
 const Index: React.FC = () => {
   return (
